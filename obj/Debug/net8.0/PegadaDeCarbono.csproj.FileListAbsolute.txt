@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\bin\Debug\net8.0\PegadaDeCarbono.exe
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\bin\Debug\net8.0\PegadaDeCarbono.deps.json
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\bin\Debug\net8.0\PegadaDeCarbono.runtimeconfig.json
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\bin\Debug\net8.0\PegadaDeCarbono.dll
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\bin\Debug\net8.0\PegadaDeCarbono.pdb
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\obj\Debug\net8.0\PegadaDeCarbono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\obj\Debug\net8.0\PegadaDeCarbono.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\obj\Debug\net8.0\PegadaDeCarbono.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\obj\Debug\net8.0\PegadaDeCarbono.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\obj\Debug\net8.0\PegadaDeCarbono.dll
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\obj\Debug\net8.0\refint\PegadaDeCarbono.dll
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\obj\Debug\net8.0\PegadaDeCarbono.pdb
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\obj\Debug\net8.0\PegadaDeCarbono.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Programação2\Projetos\PegadaDeCarbono\obj\Debug\net8.0\ref\PegadaDeCarbono.dll
